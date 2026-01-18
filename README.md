@@ -5,7 +5,7 @@ Setiap entri berikut adalah nama repositori GitHub yang berisi laporan proyek da
 
 ## Sentiment Analysis of Government Budget Efficiency Programs using Naïve Bayes, SVM, K-NN, and Hybrid Neural Network  
 Analisis sentimen terhadap program efisiensi anggaran pemerintah menggunakan Naïve Bayes, SVM, K-NN, dan Pengembangan Hybrid Neural Network.
-Available at:
+Available at: https://github.com/haikalfikriNLP/sentiment-analysis-indonesia
 
 ## Sentiment Analysis of Investment-related Tweets using Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
 Analisis sentimen terhadap kata investasi menggunakan SVM dan K-NN dan Evaluasi Perbandingan Kedua Model
