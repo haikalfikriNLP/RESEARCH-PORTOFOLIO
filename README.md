@@ -1,12 +1,28 @@
 # Research Portfolio
 
-Portofolio ini menampilkan sejumlah proyek riset yang telah diselesaikan sebagai jasa pengerjaan tugas akhir/tesis (ghostwriting).
+Portofolio ini menampilkan sejumlah proyek riset yang telah diselesaikan sebagai jasa pengerjaan tugas akhir/tesis/jurnal (ghostwriting).
 Setiap entri berikut adalah nama repositori GitHub yang berisi laporan proyek dan dokumentasi lengkap:
 
-## Sentiment Analysis of Investment-related Tweets using Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).  
+## Sentiment Analysis of Government Budget Efficiency Programs using Naïve Bayes, SVM, K-NN, and Hybrid Neural Network  
+Analisis sentimen terhadap program efisiensi anggaran pemerintah menggunakan Naïve Bayes, SVM, K-NN, dan Pengembangan Hybrid Neural Network.
+Available at:
+
+## Sentiment Analysis of Investment-related Tweets using Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
+Analisis sentimen terhadap kata investasi menggunakan SVM dan K-NN dan Evaluasi Perbandingan Kedua Model
 Available at: https://github.com/haikalfikriNLP/sentiment-analysis-twitter-svm-knn
 
-sentiment-analysis-efisiensi-anggaran – Analisis sentimen terhadap program efisiensi anggaran pemerintah dengan Naïve Bayes, SVM, K-NN, dan Hybrid Neural Network.
-cnn-kematangan-sawit – Deteksi tingkat kematangan buah kelapa sawit secara otomatis menggunakan Convolutional Neural Network (CNN) berbasis YOLOv5 pada aplikasi web.
-sistem-manajemen-beasiswa – Sistem web untuk mengelola penerimaan beasiswa mahasiswa secara digital.
-sistem-informasi-pendaftaran-kkn – Sistem informasi pendaftaran program kuliah kerja nyata (KKN) berbasis web.
+## Automatic Palm Oil Fruit Ripeness Detection using Convolutional Neural Network (CNN) with YOLOv5  
+Deteksi tingkat kematangan buah kelapa sawit secara otomatis menggunakan CNN berbasis YOLOv5 pada aplikasi web.
+Available at:
+
+## Scholarship Management Information System  
+Sistem web untuk mengelola proses penerimaan beasiswa mahasiswa secara digital.
+Available at:
+
+## Web-based Community Service (KKN) Registration Information System  
+Sistem informasi pendaftaran program Kuliah Kerja Nyata (KKN) berbasis web.
+Available at:
+
+## Melody of Productivity: Evaluation of Spotify Application Success among Professionals in Jambi City using the DeLone and McLean Model  
+Evaluasi kesuksesan aplikasi Spotify pada kalangan profesional di Kota Jambi berdasarkan model DeLone dan McLean.
+Available at:
