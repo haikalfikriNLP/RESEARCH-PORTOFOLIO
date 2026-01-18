@@ -21,7 +21,7 @@ Available at:
 
 ## Web-based Community Service (KKN) Registration Information System  
 Sistem informasi pendaftaran program Kuliah Kerja Nyata (KKN) berbasis web.
-Available at:
+Available at: https://github.com/haikalfikriNLP/web-based-community-service-kkn-registration-information-system
 
 ## Melody of Productivity: Evaluation of Spotify Application Success among Professionals in Jambi City using the DeLone and McLean Model  
 Evaluasi kesuksesan aplikasi Spotify pada kalangan profesional di Kota Jambi berdasarkan model DeLone dan McLean.
