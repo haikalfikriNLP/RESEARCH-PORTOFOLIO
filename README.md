@@ -25,4 +25,4 @@ Available at: https://github.com/haikalfikriNLP/web-based-community-service-kkn-
 
 ## Melody of Productivity: Evaluation of Spotify Application Success among Professionals in Jambi City using the DeLone and McLean Model  
 Evaluasi kesuksesan aplikasi Spotify pada kalangan profesional di Kota Jambi berdasarkan model DeLone dan McLean.
-Available at:
+Available at: https://github.com/haikalfikriNLP/melody-productivity-spotify-success-delone-mclean
