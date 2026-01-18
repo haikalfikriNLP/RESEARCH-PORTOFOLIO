@@ -11,8 +11,8 @@ Available at: https://github.com/haikalfikriNLP/hybrid-neural-network-budget-sen
 Analisis sentimen terhadap kata investasi menggunakan SVM dan K-NN dan Evaluasi Perbandingan Kedua Model
 Available at: https://github.com/haikalfikriNLP/sentiment-analysis-twitter-svm-knn
 
-## Automatic Palm Oil Fruit Ripeness Detection using Convolutional Neural Network (CNN) with YOLOv5  
-Deteksi tingkat kematangan buah kelapa sawit secara otomatis menggunakan CNN berbasis YOLOv5 pada aplikasi web.
+## Automatic Palm Oil Fruit Ripeness Detection using Convolutional Neural Network (CNN) 
+Deteksi tingkat kematangan buah kelapa sawit secara otomatis menggunakan CNN Berbasis Yolo pada aplikasi web.
 Available at:
 
 ## Scholarship Management Information System  
