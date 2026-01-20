@@ -17,7 +17,7 @@ Available at: https://github.com/haikalfikriNLP/palm-oil-fruit-ripeness-detectio
 
 ## Scholarship Management Information System  
 Sistem web untuk mengelola proses penerimaan beasiswa mahasiswa secara digital.
-Available at:
+Available at: https://github.com/haikalfikriNLP/scholarship-management-information-system
 
 ## Web-based Community Service (KKN) Registration Information System  
 Sistem informasi pendaftaran program Kuliah Kerja Nyata (KKN) berbasis web.
