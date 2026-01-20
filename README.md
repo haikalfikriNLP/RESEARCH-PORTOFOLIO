@@ -13,7 +13,7 @@ Available at: https://github.com/haikalfikriNLP/sentiment-analysis-twitter-svm-k
 
 ## Automatic Palm Oil Fruit Ripeness Detection using Convolutional Neural Network (CNN) 
 Deteksi tingkat kematangan buah kelapa sawit secara otomatis menggunakan CNN Berbasis Yolo pada aplikasi web.
-Available at:
+Available at: https://github.com/haikalfikriNLP/palm-oil-fruit-ripeness-detection-using-CNN
 
 ## Scholarship Management Information System  
 Sistem web untuk mengelola proses penerimaan beasiswa mahasiswa secara digital.
